@@ -1,4 +1,4 @@
-//Binary Operator Overloading
+//Binary Operator Overloading without using friend function
 
 #include<iostream.h>
 #include<conio.h>
